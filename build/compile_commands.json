@@ -1,8 +1,0 @@
-[
-{
-  "directory": "F:/source/repos/mhw-font/build",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IF:\\source\\repos\\mhw-font\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++latest -MDd /FoCMakeFiles\\mhw-font-util.dir\\src\\main.cpp.obj /FdCMakeFiles\\mhw-font-util.dir\\ /FS -c F:\\source\\repos\\mhw-font\\src\\main.cpp",
-  "file": "F:/source/repos/mhw-font/src/main.cpp",
-  "output": "CMakeFiles/mhw-font-util.dir/src/main.cpp.obj"
-}
-]

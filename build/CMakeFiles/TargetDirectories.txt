@@ -1,3 +1,0 @@
-F:/source/repos/mhw-font/build/CMakeFiles/mhw-font-util.dir
-F:/source/repos/mhw-font/build/CMakeFiles/edit_cache.dir
-F:/source/repos/mhw-font/build/CMakeFiles/rebuild_cache.dir
